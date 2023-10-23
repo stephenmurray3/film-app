@@ -15,7 +15,7 @@ export default function Homepage() {
           <Link to="/shows" style={linkStyle}>Explore shows</Link>
         </li>
         <li>
-          <Link to="/search" style={linkStyle}>Search your favourite shows</Link>
+          <Link to="/search" style={linkStyle}>Search your favourite show(s)</Link>
         </li>
       </ul>
     </>
